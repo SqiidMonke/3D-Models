@@ -1,2 +1,2 @@
-# Blender-Creations
-My 3D models created with Blender and other platforms
+# 3D Model Creations
+My 3D models created with Blender and other platforms throughout my many years of game development and coding.
